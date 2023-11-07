@@ -3,7 +3,7 @@
 [connections.dev]
 accountname = myaccount
 username = myusername
-password = mypassword
+password = mypasswords
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
